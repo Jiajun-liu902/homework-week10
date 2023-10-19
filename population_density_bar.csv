@@ -1,31 +1,31 @@
-Year,Continent,Population Density 
-2000,Africa,78.00526316
-2000,Asia,698.5022
-2000,Europe,587.232
-2000,North America,233.60275
-2000,Oceania,127.4130435
-2000,South America,16.35071429
-2010,Africa,120.0842105
-2010,Asia,1007.6116
-2010,Europe,666.0976
-2010,North America,271.065
-2010,Oceania,131.1026087
-2010,South America,20.65714286
-2015,Africa,107.7836842
-2015,Asia,941.2292
-2015,Europe,657.6376
-2015,North America,263.4885
-2015,Oceania,128.633913
-2015,South America,19.62357143
-2020,Africa,120.0842105
-2020,Asia,1007.6116
-2020,Europe,666.0976
-2020,North America,271.065
-2020,Oceania,131.1026087
-2020,South America,20.65714286
-2022,Africa,125.0477193
-2022,Asia,1025.0244
-2022,Europe,663.3242
-2022,North America,272.76175
-2022,Oceania,132.5434783
-2022,South America,20.97142857
+Year,Continent, Population Density  
+2000,Africa, 78.01 
+2000,Asia, 698.50 
+2000,Europe, 587.23 
+2000,North America, 233.60 
+2000,Oceania, 127.41 
+2000,South America, 16.35 
+2010,Africa, 120.08 
+2010,Asia," 1,007.61 "
+2010,Europe, 666.10 
+2010,North America, 271.07 
+2010,Oceania, 131.10 
+2010,South America, 20.66 
+2015,Africa, 107.78 
+2015,Asia, 941.23 
+2015,Europe, 657.64 
+2015,North America, 263.49 
+2015,Oceania, 128.63 
+2015,South America, 19.62 
+2020,Africa, 120.08 
+2020,Asia," 1,007.61 "
+2020,Europe, 666.10 
+2020,North America, 271.07 
+2020,Oceania, 131.10 
+2020,South America, 20.66 
+2022,Africa, 125.05 
+2022,Asia," 1,025.02 "
+2022,Europe, 663.32 
+2022,North America, 272.76 
+2022,Oceania, 132.54 
+2022,South America, 20.97 
